@@ -1,4 +1,4 @@
-datagrids:
+datagrid:
     process-definitions-grid:
         options:
             entityHint: processes
